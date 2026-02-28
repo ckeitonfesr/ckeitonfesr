@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://tse2.mm.bing.net/th/id/OIP.N3Bf2zMGwJI68uZS0A2CfQHaDf?w=800&h=378&rs=1&pid=ImgDetMain&o=7&rm=3" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://i.ibb.co/6RgzrZ7d/baixados.jpg" width="120" style="border-radius: 50%; border: 3px solid #ef4444;" />
