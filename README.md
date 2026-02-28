@@ -1,21 +1,18 @@
 <p align="center">
-  <img src="https://i.ibb.co/6RgzrZ7d/baixados.jpg" width="120" style="border-radius: 24px;" />
+  <img src="https://i.ibb.co/6RgzrZ7d/baixados.jpg" width="120" />
 </p>
 
-<h1 align="center">Web Scraping - API de Animes</h1>
+<h1 align="center"> Sobre Mim</h1>
 
 <p align="center">
-  <strong>Anime API · Busca, episódios, lançamentos, gêneros e vídeos</strong><br/>
+  <strong>Web Scraping · Android · Desktop · Engenharia Reversa</strong>
 </p>
 
 <p align="center">
-  <span style="color: #ef4444; font-weight: 600;"> BASE URL</span> <span style="color: #888;">•</span>
-  <span style="color: #ef4444; font-weight: 600;"> ENDPOINTS</span> <span style="color: #888;">•</span>
-  <span style="color: #ef4444; font-weight: 600;"> FLUXO</span> <span style="color: #888;">•</span>
-  <span style="color: #ef4444; font-weight: 600;"> EXEMPLOS</span> <span style="color: #888;">•</span>
-  <span style="color: #ef4444; font-weight: 600;"> RESPOSTAS</span> <span style="color: #888;">•</span>
-  <span style="color: #ef4444; font-weight: 600;"> ERROS</span> <span style="color: #888;">•</span>
-  <span style="color: #ef4444; font-weight: 600;"> CHANGELOG</span>
+  <span style="color: #ef4444; font-weight: 600;"> WEB SCRAPING</span> <span style="color: #888;">•</span>
+  <span style="color: #ef4444; font-weight: 600;"> ANDROID APK/.SO</span> <span style="color: #888;">•</span>
+  <span style="color: #ef4444; font-weight: 600;"> DESKTOP EXE/DLL</span> <span style="color: #888;">•</span>
+  <span style="color: #ef4444; font-weight: 600;"> AUTOMAÇÃO</span>
 </p>
 
 ---
@@ -23,5 +20,6 @@
 ##  Fundamentos
 
 ```txt
-
-Web Screping, Cheats Android Apk/.so, Cheats Desktop Exe/Dll
+Web Scraping
+Cheats Android (APK / .so)
+Cheats Desktop (EXE / DLL)
