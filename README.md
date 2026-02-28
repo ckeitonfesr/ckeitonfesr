@@ -6,10 +6,10 @@
 
 
 <p align="center">
-  <span style="color: #ef4444; font-weight: 600;"> WEB SCRAPING</span> <span style="color: #888;">•</span>
-  <span style="color: #ef4444; font-weight: 600;"> ANDROID APK/.SO</span> <span style="color: #888;">•</span>
-  <span style="color: #ef4444; font-weight: 600;"> DESKTOP EXE/DLL</span> <span style="color: #888;">•</span>
-  <span style="color: #ef4444; font-weight: 600;"> AUTOMAÇÃO</span>
+  <span style="color: #ef4444; font-weight: 600;"> Web Scraping</span> <span style="color: #888;">•</span>
+  <span style="color: #ef4444; font-weight: 600;"> Android Apk/.So</span> <span style="color: #888;">•</span>
+  <span style="color: #ef4444; font-weight: 600;"> Desktop Exe/Dll</span> <span style="color: #888;">•</span>
+  <span style="color: #ef4444; font-weight: 600;"> Automação</span>
 </p>
 
 ---
