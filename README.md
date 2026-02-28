@@ -7,9 +7,9 @@
 
 <p align="center">
   <span style="color: #ef4444; font-weight: 600;"> Cheats</span> <span style="color: #888;">•</span>
-  <span style="color: #ef4444; font-weight: 600;"> Android Cheats Apk/.So</span> <span style="color: #888;">•</span>
-  <span style="color: #ef4444; font-weight: 600;"> Desktop Cheats Exe/Dll</span> <span style="color: #888;">•</span>
-  <span style="color: #ef4444; font-weight: 600;"> Automação</span>
+  <span style="color: #ef4444; font-weight: 600;"> Android Apk/.So</span> <span style="color: #888;">•</span>
+  <span style="color: #ef4444; font-weight: 600;"> Desktop Exe/Dll</span> <span style="color: #888;">•</span>
+  <span style="color: #ef4444; font-weight: 600;"> Automação Bots</span>
 </p>
 
 ---
