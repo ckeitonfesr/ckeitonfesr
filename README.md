@@ -14,4 +14,6 @@
 
 ---
 
-##  Developer Api     •     APlications     •     Web Scraping
+<h2 align="center">
+  Developer Api     •     APlications     •     Web Scraping
+</h2>
