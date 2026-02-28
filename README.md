@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/6RgzrZ7d/baixados.jpg" width="120" />
 </p>
 
-<h1 align="center"> Sobre Mim</h1>
+<h3 align="center"> Sobre Mim</h1>
 
 
 <p align="center">
